@@ -570,7 +570,6 @@ code {
 /* Hide Streamlit default elements */
 #MainMenu { visibility: hidden; }
 footer { visibility: hidden; }
-[data-testid="stToolbar"] { visibility: hidden; }
 
 /* ── Pill Badges (Penyusun & Afiliasi) ───────────────────────── */
 .pill-row {
